@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+export FROM_RG=from-rg
+export TO_RG=to-rg
+
+export TO_LOCATION=to-location
+
+export FROM_DISK=from-disk
+export TO_DISK=to-disk
+export SNAPSHOT_NAME=snapshot-name
+
+export TO_VM=to-vm
+export TO_VM_SIZE=to-vm-size
+export TO_VNET=to-vnet
+export TO_SUBNET=to-subnet
