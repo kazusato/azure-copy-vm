@@ -8,6 +8,7 @@
 $ git clone https://github.com/kazusato/azure-copy-vm.git
 $ cd azure-copy-vm
 $ cd 00_common
+$ mkdir nogit
 $ cp ZZ_target_info.sh.template nogit/ZZ_target_info.sh
 $ vi nogit/ZZ_target_info.sh # specify source/destiantion information
 $ cd ../01_copy_vm
